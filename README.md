@@ -2,9 +2,10 @@
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''
+```
+# code block
 git clone https://github.com/tubaozyurt93/kodluyoruzilkrepo
-'''
+```
 
 ## Usage
 
