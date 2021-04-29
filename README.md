@@ -3,7 +3,6 @@
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
-# code block
 git clone https://github.com/tubaozyurt93/kodluyoruzilkrepo
 ```
 
@@ -13,10 +12,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
 
